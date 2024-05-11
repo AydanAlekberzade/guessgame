@@ -1,0 +1,35 @@
+.guessgame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+body{
+    background-image: url(https://windowsreport.com/wp-content/uploads/2018/05/Review-of-Wordament.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: rgb(171, 14, 14);
+    font-size: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-size: 23px;
+    color: rgb(33, 3, 68);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#line{
+ font-size: 25px;
+ font-weight: bold;
+color: rgb(224, 230, 227);
+}
+
+span{
+-webkit-background-clip: text;
+color: transparent;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfnc8A99JfJJ1osU--VIbTE8gKqW8ogTZc3X5RF7M5Uk4JyuclvWeIc3LIMh5dRlwlc0&usqp=CAU);
+}
